@@ -5,14 +5,6 @@
     padding: 0;
 }
 
-body{
-    
-  background-image: url("imagens/capa.png");
-  background-repeat: no-repeat;
-  background-position: 48% 250px;
-}
-    
-
 
 
 .container{
@@ -26,6 +18,9 @@ body{
 
 img{
     border-radius: 20px;
+    position: absolute;
+    top: 30%;
+    left: 40%;
 
 }
 
